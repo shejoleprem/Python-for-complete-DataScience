@@ -1,2 +1,2 @@
-# DAY-1-DATA-SCIENCE-
-this repository gives brief introduction of python
+# DATA-SCIENCE-
+this repository will provide you complete idea about data science. first we started with most popular programming language that is python.
