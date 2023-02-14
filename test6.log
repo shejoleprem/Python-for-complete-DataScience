@@ -1,0 +1,35 @@
+2023-02-13 09:14:29,010  root INFO this is my info
+2023-02-13 09:19:30,889  parso.cache DEBUG pickle loaded: C:\Users\91957\AppData\Roaming\Python\Python310\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-02-13 09:19:31,008  parso.cache DEBUG pickle loaded: C:\Users\91957\AppData\Roaming\Python\Python310\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-02-13 09:27:33,731  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:27:33,732  root INFO this is the value of i am logging 1
+2023-02-13 09:27:33,732  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:27:33,732  root INFO this is the value of i am logging 2
+2023-02-13 09:27:34,033  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:27:34,033  root INFO this is the value of i am logging 3
+2023-02-13 09:27:34,033  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:27:34,033  root INFO this is the value of i am logging 4
+2023-02-13 09:27:34,034  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:27:34,034  root INFO this is the value of i am logging [4, 5, 6]
+2023-02-13 09:27:34,034  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:27:34,034  root INFO this is the value of i am logging Prem
+2023-02-13 09:27:34,034  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:27:34,034  root INFO this is the value of i am logging Shejole
+2023-02-13 09:29:52,232  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:29:52,233  root INFO this is the value of i am logging 1
+2023-02-13 09:29:52,233  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:29:52,233  root INFO this is the value of i am logging 2
+2023-02-13 09:29:52,233  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:29:52,233  root INFO this is the value of i am logging 3
+2023-02-13 09:29:52,234  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:29:52,234  root INFO this is the value of i am logging 4
+2023-02-13 09:29:52,234  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:29:52,234  root INFO this is the value of i am logging [4, 5, 6]
+2023-02-13 09:29:52,234  root INFO logging my j 4
+2023-02-13 09:29:52,234  root INFO logging my j 5
+2023-02-13 09:29:52,234  root INFO logging my j 6
+2023-02-13 09:29:52,234  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:29:52,235  root INFO this is the value of i am logging Prem
+2023-02-13 09:29:52,235  root INFO this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'Prem', 'Shejole']
+2023-02-13 09:29:52,235  root INFO this is the value of i am logging Shejole
+2023-02-13 09:29:52,236  root INFO this is my final result [1, 2, 3, 4, 4, 5, 6]
